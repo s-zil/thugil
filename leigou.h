@@ -17,7 +17,7 @@
 		"na semtu gimgah zatat tah a kepbit ding khu dan leh dun dih tah ahi. \n" 						\
 								"\t\t\v David Vumlallian Zou, 2 July 2026\n\n" 							\
 																										\
-		/* Macro Broken can not be broken by a Blank Line (empty line); so add trailing backslash (\) 	\
+		/* Macro can not be broken by a Blank Line (empty line); so add trailing backslash (\) 	\
 		at the end of the line (NOT the beginning) to prevent compilation error  */						\
 																										\
 		"English ham a lehna: \n" 																		\
