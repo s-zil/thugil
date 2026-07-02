@@ -2,7 +2,7 @@
 #include "leigou.h"
 
 int main() {
-	printf("\vTami Preprocessor Heading File hi e %s \n\v", LEIGOU);
+	printf("\vTami Preprocessor Header File hi e \nC compiler adia kigelh ahi: \n%s \n\v", LEIGOU);
 	return 0; 
 	
 }
