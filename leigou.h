@@ -1,4 +1,4 @@
-#define LEIGOU "\nMi koi in zong mihing tha ama, ganhing tha ama, \n"					\
+#define LEIGOU "\n\nMi koi in zong mihing tha ama, ganhing tha ama, \n"					\
 		"ahilou leh thadawn thei khawl zang a, \n" 								\
 		"zuun lou gam-le-lei tang beh khat a puah a, \n" 							\
 		"a manphatna a pun sah leh, \n" 										\
