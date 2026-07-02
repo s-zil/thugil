@@ -1,4 +1,4 @@
-#define LEIGOU "\n\vMi koi in zong mihing tha ama, ganhing tha ama, \n"					\
+#define LEIGOU "\vMi koi in zong mihing tha ama, ganhing tha ama, \n"					\
 		"ahilou leh thadawn thei khawl zang a, \n" 								\
 		"zuun lou gam-le-lei tang beh khat a puah a, \n" 							\
 		"a manphatna a pun sah leh, \n" 										\
@@ -18,7 +18,7 @@
 		"none can deprive that person from the fruits of his or her labour. \n" 		\
 		"The starting of new paddy fields, horticulture, timber plantation, gardens \n" \
 		"and hillside terrace are labour-intensive; \n" 							\
-		"a just law requires the protection of the fruits of own’s labour." 		
+		"a just law requires the protection of the fruits of own’s labour.\n" 		
 									
 			/* You must add a backslash (\) at the very end of each line 			
 			to tell the preprocessor that the macro continues on the next line.*/
