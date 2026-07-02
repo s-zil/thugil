@@ -1,5 +1,5 @@
 /* 
-*	LEIGOU is a macro defined using the C/C++ preprocessor directive #define. 
+*	LEIGOU is a MACRO defined using the C/C++ preprocessor directive #define. 
 *	It expands to a long multi-line string literal enclosed in double quotes, 
 *	with backslashes (\) used to continue the macro across lines. 
 *	Whenever LEIGOU appears in the code, the preprocessor replaces it 
