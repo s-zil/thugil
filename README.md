@@ -22,5 +22,5 @@ This repository has a dual purpose:
 (a) It will make learning C programming, especially Macro feature of header files 
 in C programming, a fun activity for low-resourced languages such as the Zou. 
 
-(b) The Macro Utilities such as LEIGOU, SUAHLAM, etc will become valuable linguistic resources 
+(b) The Macro Utilities in `thugil1 repository such as LEIGOU, SUAHLAM, etc will become valuable linguistic resources 
 for students of C language. 
