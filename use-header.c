@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "leigou.h"
+#include "thugil.h"
 
 int main() {
 	printf("\vTami Preprocessor Header File hi e \nC compiler adia kigelh ahi: \n%s \n\v", LEIGOU);
