@@ -10,4 +10,4 @@ More quotations will be added in the future. As of July 2026, there are only two
     and translated into English.
     
     SUAHLAM: This a fragment of a poem written by T.S. Eliot ("Journey of the Magi") translated into Zou language
-    by David Vumlallian Zou. The complete translation was published 
+    by David Vumlallian Zou. 
