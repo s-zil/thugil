@@ -16,3 +16,11 @@ As of July 2026, there are only two utility macros in `thugil.h`
     
     SUAHLAM: This a fragment of a poem written by T.S. Eliot ("Journey of the Magi") translated into Zou language
     by David Vumlallian Zou. 
+
+This repository has a dual purpose: 
+
+(a) It will make learning C programming, especially Macro feature of header files 
+in C programming, a fun activity for low-resourced languages such as the Zou. 
+
+(b) The Macro Utilities such as LEIGOU, SUAHLAM, etc will become valuable linguistic resources 
+for students of C language. 
