@@ -1,7 +1,7 @@
 This repository contains a Preprocessor Directive or header file called `thugil.h` It is written in pure C programming language. 
 Download the repo in a folder or copy-paste this line that will create a folder called `thugil`: 
 
-```clone thugil https://github.com/s-zil/thugil.git```
+[[[```clone thugil https://github.com/s-zil/thugil.git```]]]
 
 Nagivate into `thugil` folder, and write a source code to test the utility macros in this header file. Or simply use
 the `kisinna.c` program to test the Utility Macros. 
