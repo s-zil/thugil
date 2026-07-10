@@ -4,7 +4,7 @@
 int main(void) {
 	printf("\vTami Preprocessor Header File hi e \nC compiler adia kigelh ahi: \n%s \n\v", LEIGOU);
 	printf("LEIGOU ban ah, macro ulitity tha khat SUAHLAM aki belap ta hi %s\n", SUAHLAM);
-	printf("ZALEENNA chi macro khat belap kia ahi: %s\n", ZALEENNA);
+	printf("ZALEEN chi macro khat belap kia ahi: %s\n", ZALEEN);
 	return 0; 
 	
 }
