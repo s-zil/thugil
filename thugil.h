@@ -2,8 +2,8 @@
 #define THUGIL_H
 
 #define THUGIL "THUGIL LIST \v\n"		\ 
-	"SUAHLAM	\tSuahlam Mipilte\n"
-		\LEIGOU		\tSepgim gahsuao leigou\n"	\
+	"SUAHLAM	\tSuahlam Mipilte\n"	\
+		"LEIGOU		\tSepgim gahsuao leigou\n"	\
 		"ZALEEN		\tLu dopsang ngam na mun ah\n"
 																				
 #define SUAHLAM "\n\nSUAHLAM MIPILTE \n"										\
