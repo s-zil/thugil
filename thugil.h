@@ -45,7 +45,7 @@
 		"and hillside terrace are labour-intensive; \n" 							\
 		"a just law requires the protection of the fruits of own’s labour.\n" 
 
-	#define ZALEENNA "\n\nLU DOPSANG NGAM NA MUN AH \n"		\
+	#define ZALEEN "\n\nLU DOPSANG NGAM NA MUN AH \n"		\
 		"Lung shi lou a, lu dopsang ngam na mun ah,	\n" 	\
 		"Siamna leh pilna zalenna mun ah, \n"	\
 		"Tui chiim bang a lungsim ngaisutna gilte, \n"	\
