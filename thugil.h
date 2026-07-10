@@ -1,6 +1,11 @@
 #ifndef THUGIL_H
 #define THUGIL_H
-																		
+
+#define THUGIL "THUGIL LIST \n\v"		\ 
+		"SUAHLAM	\tSuahlam Mipilte\n"	\
+		"LEIGOU		\tSepgim gahsuao leigou\n"	\
+		"ZALEEN		\tLu dopsang ngam na mun ah\n"
+																				
 #define SUAHLAM "\n\nSUAHLAM MIPILTE \n"										\
 		"Tam te nunlui thu ahi ta, lunglen a kai thou hi. \n"						\
 		"Ka khualzin kisia vawt sing, nanleh silmah khat hing gen vang: \n"			\
