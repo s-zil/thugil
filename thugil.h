@@ -44,6 +44,17 @@
 		"The starting of new paddy fields, horticulture, timber plantation, gardens \n" \
 		"and hillside terrace are labour-intensive; \n" 							\
 		"a just law requires the protection of the fruits of own’s labour.\n" 
+
+	#define ZALEENNA "\n\nLU DOPSANG NGAM NA MUN AH \n"		\
+		"Lung shi lou a, lu dopsang ngam na mun ah,	\n" 	\
+		"Siamna leh pilna zalenna mun ah, \n"	\
+		"Tui chiim bang a lungsim ngaisutna gilte, \n"	\
+		"Ngaidan lui sehnel gamgaw lah a agammang louna mun, \n"	\
+		"Lunggel piching sem leh nasep tangzai zaw sem dia \n"	\
+		"Nangman lungsim na kehletna mun ah, \n"	\
+		"Pa aw, tuabang zaleenna vangam ah, \n"	\
+		"Ka gamlei hing phong tan. \n"		\
+		"\t\t\v	Tagore, Gitanjali \n\n"			
 																					
 #endif
 																												
